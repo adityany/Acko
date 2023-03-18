@@ -1,0 +1,64 @@
+.health-main{
+    background-color: rgb(89, 32, 197);
+    height: 350px;
+}
+.health-left{
+    padding: 70px;
+    margin-left:90px;
+    float: left;
+    display: block;
+    position: absolute;
+}
+.health-h1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    /* display: block; */
+    /* line-height: 30px; */
+    font-weight: 700;
+
+}
+.health-para{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight:500;
+    line-height: 25px;
+    margin: 8px 0px 7px;
+    max-width: 550px;
+}
+.health-para2{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    line-height: 30px;
+}
+.health-btn{
+    width: 100%;
+    margin-top: 30px;
+}
+.health-btn-main{
+    background-color: rgb(93, 197, 143);
+    border-radius: 10px;
+    height: 50px;
+}
+.health-btn-span{
+    display: flex;
+    font-weight:650;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+}
+.health-img{
+    position: relative; 
+     display: block;
+    float: right;
+    padding: 90px;
+    margin-right: 110px;
+}
+.health-homelink{
+    margin: 30px 0px 0px 100px;
+    color: rgb(91, 86, 117);
+    text-decoration: none;
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: rgb(91, 86, 117);
+}
